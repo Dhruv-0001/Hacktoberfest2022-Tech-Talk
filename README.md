@@ -13,4 +13,11 @@
 
 
 https://user-images.githubusercontent.com/109892892/197772908-4ea90950-8c8f-4b04-b6b8-c7c626fd227a.mp4
+  
+<h3 align="center">○ FORK THE REPOSITORY AND FOLLOW THE VIDEO.</h3>
+<h3 align="center">○ COMMIT CHANGES AND ADD YOUR TOPIC AND ITS CONTENT.</h3>
+<h3 align="center">○ PUSH CHANGES FROM LOCAL REPOSITORY TO GITHUB.</h3>
+<h3 align="center">○ CREATE A PULL REQUEST.</h3>
+<h3 align="center">○ THE FORMAT OF COMMIT MESSAGE -- [NAME OF THE TOPIC - YOUR NAME].</h3>
+
 
