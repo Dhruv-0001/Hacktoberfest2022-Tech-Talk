@@ -1,7 +1,10 @@
 import streamlit as st
 from functions import load_css,blog, st_button
 from topics_list import topics_list
-import video,image,description,article
+import video
+import image
+import description
+import article
 
 load_css()
 
