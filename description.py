@@ -8,4 +8,5 @@ description=["Metaverse is a kind of virtual world. With this technology, people
 
 "Artificial Intelligence (AI) Artificial intelligence leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind."
 
+"The internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction"
 ]
