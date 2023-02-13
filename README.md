@@ -1,23 +1,20 @@
 # Tech-Talk
+This is an Open Contribution repository for Hacktober Fest.
 
-<div align="center">
-<h3 align="center">THIS IS AN OPEN CONTRIBUTION REPOSITORY FOR HACKTOBER FEST.</h3>
-  <h4>The Link of the Website:- https://dhruv-0001-hacktoberfest2022-tech-talk-main-z5l9tc.streamlitapp.com/</a></h4>
-<p>THIS IS A TECH LEARNING WEBSITE. IT PROVIDES LEARNING MATERIAL (ARTICLES & VIDEOS) FOR THE EMERGING TECH TOPICS.INTERESTED CONTRIBUTORS CAN CONTIBUTE IN THIS PROJECT BY ADDING THE CONTENTS OF NEW TOPICS, IMPROVING THE OVERALL WEBSITE, IMPROVING README FILE, ETC.. DEVELOPED BY --<b> @DHRUV TYAGI </b> </p>
-</div>
+## [Live Link](https://dhruv-0001-hacktoberfest2022-tech-talk-main-z5l9tc.streamlitapp.com/)
 
-<div align="center">
-<h3 align="center">INSTRUCTIONS FOR CONTIBUTING IN THIS PROJECT.</h3>
+- This is a Tech learning website.
+- It provides learning material (articles & videos) for the emerging Tech topics.
+- Interested Contributors can contibute in this project by adding the contents of new topics, improving the overall website, improving readme file, etc.
 
-<div align="center">
+## Instructions for contibuting in this project.
 
+- Fork the repository and follow the video.
+- Commit changes and add your topic and its content
+- Push changes from local repository to Github.
+- Create a pull request
+- The format of the commit message is --> [NAME OF THE TOPIC - YOUR NAME]/.
 
 https://user-images.githubusercontent.com/109892892/197772908-4ea90950-8c8f-4b04-b6b8-c7c626fd227a.mp4
-  
-<h3 align="center">○ FORK THE REPOSITORY AND FOLLOW THE VIDEO.</h3>
-<h3 align="center">○ COMMIT CHANGES AND ADD YOUR TOPIC AND ITS CONTENT.</h3>
-<h3 align="center">○ PUSH CHANGES FROM LOCAL REPOSITORY TO GITHUB.</h3>
-<h3 align="center">○ CREATE A PULL REQUEST.</h3>
-<h3 align="center">○ THE FORMAT OF COMMIT MESSAGE -- [NAME OF THE TOPIC - YOUR NAME].</h3>
 
 
